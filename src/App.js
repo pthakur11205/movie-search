@@ -1,16 +1,16 @@
 import React, { useState } from 'react';
 import "bootswatch/dist/vapor/bootstrap.min.css";
-import Header from './components/Header';
-import MovPortal from './components/MovPortal';
+import HeaderComponent from './components/Header';
+import MovPortalComponent from './components/MovPortal';
 
 // Structure for the app
 function App() {
   return (
     <div>
-      <Header />
+      <HeaderComponent />
       <br/>
       <div className='container'>
-        <MovPortal/>
+        <MovPortalComponent/>
       </div>
     </div>
   );

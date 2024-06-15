@@ -1,5 +1,5 @@
 // Top bar of the page for UI design
-function Header() {
+function HeaderComponent() {
     return (
         <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
         <div class="container-fluid">
@@ -12,4 +12,4 @@ function Header() {
     );
   }
   
-  export default Header;
+  export default HeaderComponent;

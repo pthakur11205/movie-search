@@ -1,7 +1,7 @@
 import { useState } from "react";
 
 // Component for searching and user interaction
-function MovPortal() {
+function MovPortalComponent() {
 
     // For rerendering the div info when the searchUserInput method is used
     const [searchUserInput, setSearchUserInput] = useState('')
@@ -30,4 +30,4 @@ function MovPortal() {
     );
   }
   
-  export default MovPortal;
+  export default MovPortalComponent;
