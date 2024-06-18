@@ -46,8 +46,3 @@ Pushpesh Thakur
 * 0.1
     * Initial Release
 
-
-## Acknowledgments
-
-Inspiration: 
-* https://www.youtube.com/watch?v=hIuOE3FsFTc
